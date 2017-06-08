@@ -1,1 +1,1 @@
-# -Grade-Average
+# -Average Grades
